@@ -1,2 +1,2 @@
 # Agri-Datascience--handson
-Agricultural data using logical egression, confusion matrix, model predictions 
+Agricultural data using logical regression, confusion matrix, model predictions 
